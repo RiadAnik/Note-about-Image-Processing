@@ -6,3 +6,4 @@ For example, you can filter an image to emphasize certain features or remove oth
 # 2. What is the functionality of Gabor Filter?
 
 Gabor filters are generally used in texture analysis, edge detection, feature extraction, disparity estimation (in stereo vision), etc. Gabor filters are special classes of bandpass filters, i.e., they allow a certain ‘band’ of frequencies and reject the others.
+
