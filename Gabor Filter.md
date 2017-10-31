@@ -1,8 +1,8 @@
-1. What is Filtering in Image Processing?
+# 1. What is Filtering in Image Processing?
 
 At first we should what is filter means in image processing. Filtering is a technique for modifying or enhancing an image. 
 For example, you can filter an image to emphasize certain features or remove other features. Image processing operations implemented with filtering include smoothing, sharpening, and edge enhancement.
 
-2. What is the functionality of Gabor Filter?
+# 2. What is the functionality of Gabor Filter?
 
 Gabor filters are generally used in texture analysis, edge detection, feature extraction, disparity estimation (in stereo vision), etc. Gabor filters are special classes of bandpass filters, i.e., they allow a certain ‘band’ of frequencies and reject the others.
