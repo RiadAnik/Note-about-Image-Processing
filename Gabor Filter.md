@@ -10,9 +10,31 @@ Gabor filters are generally used in texture analysis, edge detection, feature ex
 
 # 3.My purpose of learning Gabor Filter
 
-I have determined texture orientation of each pixel by using Gabor Filter. Now we should know what do it means by texture Orientation.
+My project is to detect road detection by using voting scheme based vanishing point detection algorithm. So, I have determined texture orientation of each pixel by using Gabor Filter. Now we should know what do it means by texture Orientation.
 It is nothing but gradient image. Now What is gradient of an Iamge?
 
 An image gradient is a directional change in the intensity or color in an image. The gradient of the image is one of the fundamental building blocks in image processing. For example the Canny edge detector uses image gradient for edge detection.
 
 ![gradient2 svg](https://user-images.githubusercontent.com/21199518/32272286-ab436f90-bf27-11e7-867c-682276ef88a5.png)
+
+
+In the above two images, the values of the function are represented in black and white, black representing higher values, and its corresponding gradient is represented by blue arrows.
+
+Now, i have found the directional response of each pixel and this is going to be necessary for voting method to identify the vanishing point.
+
+# Learn more about Gabor Filter from below links:
+
+
+1.https://cvtuts.wordpress.com/2014/04/27/gabor-filters-a-practical-overview/
+
+
+2.https://en.wikipedia.org/wiki/Gabor_filter
+
+
+3.https://www.youtube.com/watch?v=-NZakhhB_Do
+
+
+4.https://stackoverflow.com/questions/20608458/gabor-feature-extraction
+
+
+5.https://stackoverflow.com/questions/7419409/image-processing-using-gabor-filter
